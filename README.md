@@ -34,6 +34,7 @@ print("After circulating the values are:",circulate())
 ```
 
 ## Output:
-![](./circulate.png)
+![]![circulate](https://user-images.githubusercontent.com/120620842/214118304-2ce61b5b-ea00-4780-882d-62bf1bff7aa1.png)
+()
 ## Result:
 Thus the circulate the values of N variables are created
